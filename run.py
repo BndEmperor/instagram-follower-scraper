@@ -10,8 +10,8 @@ from selenium.webdriver.common.keys import Keys
 from webdriver_manager.chrome import ChromeDriverManager as CM
 
 # Complete these 2 fields ==================
-USERNAME = 'your instagram username'
-PASSWORD = 'your instagram password'
+USERNAME =  'rezaeihormozgani'#'your instagram username'
+PASSWORD = 'MANIpython@568088400'#'your instagram password'
 # ==========================================
 
 TIMEOUT = 15
